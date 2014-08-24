@@ -33,6 +33,8 @@ install narwhal
 install vim --override-system-vi
 install homebrew/dupes/grep
 install homebrew/php/php55 --with-gmp
+install scala --with-docs
+install sbt
 
 # This formula didn’t work well last time I tried it:
 #install homebrew/dupes/screen
