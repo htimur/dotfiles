@@ -26,3 +26,5 @@ cask install the-unarchiver 2> /dev/null
 cask install virtualbox 2> /dev/null
 cask install vagrant 2> /dev/null
 cask install vlc 2> /dev/null
+cask install haroopad 2> /dev/null
+
