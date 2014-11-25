@@ -1,7 +1,8 @@
 # Add `~/bin` to the `$PATH`
 export PATH="$HOME/bin:$PATH"
 export PATH="$(brew --prefix)/bin:$PATH"
-export JAVA_HOME=$(/usr/libexec/java_home -v '1.6*')
+#export JAVA_HOME=$(/usr/libexec/java_home -v '1.6*')
+export JAVA_HOME=$(/usr/libexec/java_home -d64 -v 1.7*)
 #export JAVA_HOME=$(/usr/libexec/java_home -d64 -v 1.8.0_20)
 export SCALA_HOME=/usr/local/Cellar/scala/2.11.2/libexec
 export SBT_OPTS="-Xms512M -Xmx1536M -Xss1M -XX:+CMSClassUnloadingEnabled -XX:MaxPermSize=512M"

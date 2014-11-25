@@ -5,6 +5,7 @@ install caskroom/cask/brew-cask
 tap caskroom/versions
 
 cask install java 2> /dev/null
+cask install java7 2> /dev/null
 cask install phpstorm 2> /dev/null
 cask install intellij-idea 2> /dev/null
 cask install dropbox 2> /dev/null
