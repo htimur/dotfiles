@@ -69,7 +69,5 @@ brew install webkit2png
 brew install xpdf
 brew install zopfli
 
-brew install homebrew/versions/lua52
-
 # Remove outdated versions from the cellar
 brew cleanup
