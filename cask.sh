@@ -44,3 +44,4 @@ brew cask install google-drive 2> /dev/null
 brew cask install private-internet-access 2> /dev/null
 brew cask install sourcetree 2> /dev/null
 brew cask install skype 2> /dev/null
+brew cask install mou 2> /dev/null
