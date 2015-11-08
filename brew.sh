@@ -42,6 +42,8 @@ brew install homebrew/dupes/grep
 brew install homebrew/php/php55 --with-gmp
 brew install scala --with-docs
 brew install sbt
+brew install multirust
+brew install go
 
 # This formula didn’t work well last time I tried it:
 #install homebrew/dupes/screen
