@@ -39,11 +39,13 @@ brew install narwhal
 # Install more recent versions of some OS X tools
 brew install vim --override-system-vi
 brew install homebrew/dupes/grep
-brew install homebrew/php/php55 --with-gmp
 brew install scala --with-docs
 brew install sbt
 brew install multirust
 brew install go
+brew install gradle
+brew install docker
+brew install kubernetes-cli
 
 # This formula didn’t work well last time I tried it:
 #install homebrew/dupes/screen

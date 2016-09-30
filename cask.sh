@@ -19,11 +19,11 @@ brew tap caskroom/versions
 
 brew cask install java 2> /dev/null
 brew cask install java7 2> /dev/null
-brew cask install phpstorm 2> /dev/null
 brew cask install intellij-idea-ce 2> /dev/null
 brew cask install dropbox 2> /dev/null
 brew cask install google-chrome 2> /dev/null
-brew cask install google-chrome-canary 2> /dev/null
+brew cask install google-chrome 2> /dev/null
+brew cask install google-drive 2> /dev/null
 brew cask install imagealpha 2> /dev/null
 brew cask install imageoptim 2> /dev/null
 brew cask install iterm2 2> /dev/null
@@ -43,3 +43,12 @@ brew cask install google-drive 2> /dev/null
 brew cask install private-internet-access 2> /dev/null
 brew cask install sourcetree 2> /dev/null
 brew cask install skype 2> /dev/null
+brew cask install itsycal 2> /dev/null
+brew cask install kitematic 2> /dev/null
+brew cask install minikube 2> /dev/null
+brew cask install robomongo 2> /dev/null
+brew cask install spectacle 2> /dev/null
+brew cask install spotify 2> /dev/null
+brew cask install telegram 2> /dev/null
+brew cask install thunderbird 2> /dev/null
+brew cask install macdown 2> /dev/null
